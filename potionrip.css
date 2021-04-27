@@ -19,7 +19,7 @@ nav ul {float:left; width:150px; margin-left:10px; padding-left:0; list-style-ty
 /* set general side button styles*/ 
 li.btn {width:115px; line-height:20px; margin-bottom:3px; text-align:center;} 
 /* set general access (anchor) styles*/ 
-li.btn a {display:block; width:115px; color:black; font-family:arial; font-size:small;«
+li.btn a {display:block; width:115px; color:black; font-family:arial; font-size:small;
  font-weight:bold; text-decoration:none; } 
 /* mouseout (default) */ 
 li.btn a {background:#00ffcc; border:4px outset #AABAFF;} 
